@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">DevProfile</string>
     <string name="devslopesTxt">Devslopes</string>
+    <string name="contentDescriptionBanner">Banner</string>
+    <string name="contentDescriptionLogo">logo</string>
+    <string name="contentDescriptionImageContent">image</string>
+    <string name="contentDescriptionInboxButton">Inbox button</string>
+    <string name="contentDescriptionFavBtn">Favorite button</string>
+    <string name="contentDescriptionCamBtn">Camera button</string>
 </resources>
